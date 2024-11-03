@@ -87,3 +87,10 @@ calculation();
   }
   ```
 ---
+
+### Languages:
+
+* English - Upper-intermediate
+![Certificate](./images/english.jpg)
+* Ukrainian - Native
+* Russian - Upper-intermediate
